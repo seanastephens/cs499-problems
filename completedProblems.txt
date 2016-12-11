@@ -14,4 +14,7 @@
 2663: Assignment 4- (1) Tri-Tiling
 
 1159: Assignment 4- (3) Palindrome
+2484: Assignment 5- (2) A Funny Game 
+    -> Greatest Solution Ever Submitted
+2960: Assignment 5- (5) S-Nim
 //2127: Assignment 4- (6) Greatest Common Increasing Subsequence

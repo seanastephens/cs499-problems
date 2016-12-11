@@ -1,0 +1,39 @@
+--------------------------
+D: [0, 4, 9, 21]
+S: [0]
+Calculating the smallest index
+[0, 4, 9, 21]
+  Ignore set didn't have i, and it was smaller, i: 1
+ Returning the smallest distance: 1
+Adding: 1
+Working with :
+[4, 0, 8, 17]
+  ->Updating: 2
+  ->Updating: 3
+--------------------------
+D: [0, 4, 8, 17]
+S: [0, 1]
+Calculating the smallest index
+[0, 4, 8, 17]
+  Ignore set didn't have i, and it was smaller, i: 2
+ Returning the smallest distance: 2
+Adding: 2
+Working with :
+[9, 8, 0, 16]
+  ->Updating: 3
+--------------------------
+D: [0, 4, 8, 16]
+S: [0, 1, 2]
+Calculating the smallest index
+[0, 4, 8, 16]
+  Ignore set didn't have i, and it was smaller, i: 3
+ Returning the smallest distance: 3
+Adding: 3
+Working with :
+[21, 17, 16, 0]
+Min Distance Calculation
+ ->Adding: 0
+ ->Adding: 4
+ ->Adding: 8
+ ->Adding: 16
+28
