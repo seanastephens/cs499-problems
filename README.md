@@ -1,1 +1,23 @@
-Don't read this
+1000: Assignment 1- (0) A+B Problem
+1004: Assignment 1- (0) Financial Management 
+1003: Assignment 1- (1) Hangover
+2140: Assignment 1- (3) Herd Sums
+1001: Assignment 1- (5) Exponentiation
+1401: Assignment 2- (1) Factorial
+1799: Assignment 2- (1) Yeehaa!
+2262: Assignment 2- (2) Goldbach's Conjecture 
+2693: Assignment 2- (4) Chocolate Chip Cookies 
+2418: Assignment 3- (1) Hardwood Species
+3367: Assignment 3- (3) Expressions
+1330: Assignment 3- (3) Nearest Common Ancestors
+1163: Assignment 4- (1) The Triangle
+2663: Assignment 4- (1) Tri-Tiling
+1159: Assignment 4- (3) Palindrome
+2484: Assignment 5- (2) A Funny Game // Greatest Solution Ever Submitted
+2960: Assignment 5- (5) S-Nim
+1125: Assignment 7- (1) Stockbroker Grapevine
+1556: Assignment 7- (5) The Doors
+2408: Assignment 10- (2) Anagram Groups
+
+//1258: Assignment 6- (1) Agri-Net
+//2127: Assignment 4- (6) Greatest Common Increasing Subsequence
