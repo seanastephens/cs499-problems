@@ -13,8 +13,8 @@ public class Main {
 			in = new HashMap<Character,TreeSet<String>>();
 			out = new HashMap<Character,TreeSet<String>>();
 			for(char c : "qwertyuiopasdfghjklzxcvbnm".toCharArray()) {
-				in.put(c, new TreeSet<String>());
-				out.put(c, new TreeSet<String>());
+				in.put(c, new TreeSet<String>(new LastFirst()));
+				out.put(c, new TreeSet<String>(new LastFirst()));
 			}
 
 			while(w --> 0) {
@@ -23,6 +23,15 @@ public class Main {
 				in.get(s.charAt(s.length() - 1)).add(s);
 			}
 			cycle();
+		}
+	}
+
+	static class LastFirst implements Comparator<String> {
+		public int compare(String a, String b) {
+			if(a.charAt(a.length() - 1) != b.charAt(b.length() - 1)) {
+				return a.charAt(a.length() - 1) - b.charAt(b.length() - 1);
+			}
+			return a.compareTo(b);
 		}
 	}
 
